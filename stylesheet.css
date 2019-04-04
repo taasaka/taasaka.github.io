@@ -7,13 +7,15 @@ header {
 }
 
 .iam {
+	height: 400px;
+	background-image: url(cover.jpg);
 	padding: 10px 30px;
-	float: left;
+	background-size: cover;
 }
 
 .hello {
-	float: left;
-	padding: 10px 30px;
+/*	float: left; */
+	padding: 5px 15px;
 }
 
 .hello li{
@@ -23,4 +25,15 @@ header {
 .me {
 	width: 600px;
 	padding: 30px 30px;
+}
+
+.sns-links {
+	list-style: none;
+	padding: 30px 30px;
+	float: left;
+}
+
+.sns-links li{
+	float: left;
+	padding: 0px 0px 0px 30px;
 }
