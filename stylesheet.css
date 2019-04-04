@@ -1,0 +1,26 @@
+header {
+	height: 90px;
+	background-color: #848a96;
+	font-family: "Avenir Next";
+	font-size: 12Spx;
+	color: #fff;
+}
+
+.iam {
+	padding: 10px 30px;
+	float: left;
+}
+
+.hello {
+	float: left;
+	padding: 10px 30px;
+}
+
+.hello li{
+	list-style: none;
+}
+
+.me {
+	width: 600px;
+	padding: 30px 30px;
+}
