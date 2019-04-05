@@ -14,7 +14,6 @@ header {
 }
 
 .hello {
-/*	float: left; */
 	padding: 5px 15px;
 	background-color: #000;
 	color: white;
@@ -39,3 +38,11 @@ header {
 	float: left;
 	padding: 0px 0px 0px 30px;
 }
+
+@media (max-width: 670px) {
+	.hello li{
+		list-style: none;
+		font-size: 36px;
+	}
+}
+
