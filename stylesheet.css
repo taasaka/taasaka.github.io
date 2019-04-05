@@ -11,7 +11,7 @@ main {
 }
 
 .iam {
-	height: 450px;
+	height: 600px;
 	background-image: url(cover.jpg);
 	padding: 10px 30px;
 	background-size: cover;
@@ -25,7 +25,7 @@ main {
 }
 
 .sns-links {
-	margin-top: 500px;
+	margin-top: 650px;
 }
 
 .sns-links a{
