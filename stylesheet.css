@@ -7,7 +7,7 @@ header {
 }
 
 .iam {
-	height: 660px;
+	height: 470px;
 	background-image: url(cover.jpg);
 	padding: 10px 30px;
 	background-size: cover;
@@ -16,6 +16,8 @@ header {
 .hello {
 /*	float: left; */
 	padding: 5px 15px;
+	background-color: #000;
+	color: white;
 }
 
 .hello li{
