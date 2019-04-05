@@ -14,35 +14,48 @@ header {
 }
 
 .hello {
+	height: 300px;
 	padding: 5px 15px;
 	background-color: #000;
 	color: white;
+}
+
+.sns-links {
+	margin-top: 510px;
+}
+
+.sns-links a{
+	list-style: none;
+	float: left;
+	margin-right: 10px; 
+	margin-left: 20px;
+	padding: 10px;
+	color: white;
+	border-radius: 10px; 
+}
+
+
+.facebook {
+	background-color: #3B5998;
+}
+
+.Instagram {
+	background-color: #262626;
+}
+
+.note {
+	background-color: #2cb696;
 }
 
 .hello li{
 	list-style: none;
 }
 
-.me {
-	width: 600px;
-	padding: 30px 30px;
+footer p {
+	margin-top: 590px;
+	margin-right: 40px;
+	text-align: right;
+	color: white;
 }
 
-.sns-links {
-	list-style: none;
-	padding: 30px 30px;
-	float: left;
-}
-
-.sns-links li{
-	float: left;
-	padding: 0px 0px 0px 30px;
-}
-
-@media (max-width: 670px) {
-	.hello li{
-		list-style: none;
-		font-size: 36px;
-	}
-}
 
